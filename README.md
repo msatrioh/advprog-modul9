@@ -7,3 +7,6 @@ message sending and receiving
 
 Message rates chart screenshot
 ![image](https://github.com/user-attachments/assets/24ad1041-4d61-4f6e-9efc-c813a8dbf4ba)
+
+Message queued chart screenshot
+![image](https://github.com/user-attachments/assets/c724fa77-a4a8-496c-995e-3fd2e4422cf8)
