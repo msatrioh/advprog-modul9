@@ -10,3 +10,6 @@ Message rates chart screenshot
 
 Message queued chart screenshot
 ![image](https://github.com/user-attachments/assets/c724fa77-a4a8-496c-995e-3fd2e4422cf8)
+
+multiple subscribers screenshot
+![image](https://github.com/user-attachments/assets/30cea7e7-b553-4edd-95e1-69e4dc58cb45)
