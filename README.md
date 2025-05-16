@@ -4,3 +4,6 @@ RabbitMQ screenshot
 
 message sending and receiving
 ![image](https://github.com/user-attachments/assets/e5df4567-c1b2-4dae-92d7-d8f6e51986a6)
+
+Message rates chart screenshot
+![image](https://github.com/user-attachments/assets/24ad1041-4d61-4f6e-9efc-c813a8dbf4ba)
